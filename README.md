@@ -1,4 +1,4 @@
-#Getting Permutations
+Markup : #Getting Permutations#
 
 *If an array S has n number of integers from 1 to n, then Program generate all the permutations of the array.
 
