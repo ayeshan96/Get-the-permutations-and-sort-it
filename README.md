@@ -1,15 +1,15 @@
-Markup : #Getting Permutations#
+# Getting Permutations #
 
-*If an array S has n number of integers from 1 to n, then Program generate all the permutations of the array.
+* If an array S has n number of integers from 1 to n, then Program generate all the permutations of the array.
 
-	*Example
+	* Example
 
-		*If n=3, then array S={1,2,3}
+		* If n=3, then array S={1,2,3}
 
-		*Then permutations as follows
-				S<sub>1</sub>={1,2,3}
-				S<sub>2</sub>={1,3,2}
-				S<sub>3</sub>={2,1,3}
+		* Then permutations as follows
+				S <sub> 1 </sub> ={1,2,3}
+				S <sub> 2 </sub> ={1,3,2}
+				S <sub> 3 </sub> ={2,1,3}
 				S<sub>4</sub>={2,3,1}
 				S<sub>5</sub>={3,1,2}
 				S<sub>6</sub>={3,2,1}
