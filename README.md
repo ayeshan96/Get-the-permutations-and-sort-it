@@ -7,6 +7,7 @@
 		* If n=3, then array S={1,2,3}
 
 		* Then permutations as follows
+		
 				S <sub>1</sub> ={1,2,3}
 				S <sub>2</sub> ={1,3,2}
 				S <sub>3</sub> ={2,1,3}
