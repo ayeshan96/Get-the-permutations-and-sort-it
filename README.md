@@ -4,9 +4,7 @@
 
 	* Example
 
-		* If n=3, then array 
-
-	S={1,2,3}
+		* If n=3, then array S={1,2,3}
 
 		* Then permutations as follows
 
